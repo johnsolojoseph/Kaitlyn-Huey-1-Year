@@ -1,0 +1,24 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Ocean Beach
+Name = Ocean Beach
+#-------------------------------
+[002]   # Financial District
+Name = Financial District
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[004]   # Salesforce Tower
+Name = Salesforce Tower
+MapPosition = 0,13,12
+#-------------------------------
+[005]   # Salesforce Elevator
+Name = Salesforce Elevator
+ShowArea = true
+MapPosition = 0,13,11
+#-------------------------------
+[006]   # Salesforce 61F
+Name = Salesforce 61F
+MapPosition = 0,13,11
