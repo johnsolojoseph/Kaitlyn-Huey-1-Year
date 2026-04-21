@@ -71,6 +71,15 @@ Weight = 50.5
 Pokedex = With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.
 Generation = 6
 #-------------------------------
+[DRAGONITE,1]
+FormName = Mega Dragonite
+MegaStone = DRAGONINITE
+BaseStats = 91,124,115,100,145,125
+BaseExp = 350
+Weight = 290.0
+Pokedex = Mega Evolution has excessively powered up this Pokémon's feelings of kindness. It finishes off its opponents with mercy in its heart.
+Generation = 9
+#-------------------------------
 [RATTATA,1]
 FormName = Alolan
 Types = DARK,NORMAL
