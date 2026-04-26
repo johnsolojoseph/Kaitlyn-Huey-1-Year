@@ -2,6 +2,7 @@
 #-------------------------------
 [001]   # Ocean Beach
 Name = Ocean Beach
+HealingSpot = 1,4,11
 #-------------------------------
 [002]   # Financial District
 Name = Financial District
@@ -10,7 +11,7 @@ ShowArea = true
 MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
-[004]   # Salesforce Tower
+[004]   # Salesforce Tower 1F
 Name = Salesforce Tower
 MapPosition = 0,13,12
 #-------------------------------
@@ -19,6 +20,6 @@ Name = Salesforce Elevator
 ShowArea = true
 MapPosition = 0,13,11
 #-------------------------------
-[006]   # Salesforce 61F
+[006]   # Salesforce Tower 61F
 Name = Salesforce 61F
 MapPosition = 0,13,11
