@@ -388,6 +388,13 @@ BaseMoney = 100
 BattleBGM = Battle Elite
 VictoryBGM = Battle victory leader
 #-------------------------------
+[Qinque]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
 [ELITEFOUR_Lance]
 Name = Elite Four
 Gender = Male

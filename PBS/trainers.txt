@@ -108,6 +108,14 @@ Pokemon = PIDGEOTTO,17
 Pokemon = RATTATA,15
 Pokemon = SQUIRTLE,18
 #-------------------------------
+[Qingque,Qingque]
+LoseText = Aww.
+Pokemon = MUNNA,50
+Pokemon = TOGEKISS,50
+Pokemon = MEOWSCARADA,50
+Pokemon = ZOROARK,50
+Pokemon = GHOLDENGO,50
+#-------------------------------
 [ELITEFOUR_Lance,Edward]
 LoseText = Impressive... You've surpassed all expectations.
 Items = MEGARING
