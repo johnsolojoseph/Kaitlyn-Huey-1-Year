@@ -108,7 +108,7 @@ Pokemon = PIDGEOTTO,17
 Pokemon = RATTATA,15
 Pokemon = SQUIRTLE,18
 #-------------------------------
-[ELITEFOUR_Qingque,Qingque]
+[QINGQUE,Qingque]
 LoseText = Aww.
 Pokemon = MUNNA,50
 Pokemon = TOGEKISS,50
