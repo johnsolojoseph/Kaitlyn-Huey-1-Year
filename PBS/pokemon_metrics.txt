@@ -18,6 +18,12 @@ FrontSprite = 2,11
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
+[VENUSAUR,1]
+BackSprite = 0,48
+FrontSprite = 0,19
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
 [CHARMANDER]
 BackSprite = -6,0
 FrontSprite = 4,19
@@ -33,6 +39,18 @@ ShadowSize = 2
 [CHARIZARD]
 BackSprite = -2,0
 FrontSprite = 0,3
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[CHARIZARD,1]
+BackSprite = 10,45
+FrontSprite = 10,12
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
+[CHARIZARD,2]
+BackSprite = 6,40
+FrontSprite = 1,10
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
@@ -3186,6 +3204,12 @@ FrontSprite = 2,20
 ShadowX = 0
 ShadowSize = 2
 #-------------------------------
+[TUSKPIR]
+BackSprite = 0,0
+FrontSprite = 0,33
+ShadowX = 0
+ShadowSize = 1
+#-------------------------------
 [MUNNA]
 BackSprite = 0,0
 FrontSprite = 0,33
@@ -4043,3 +4067,9 @@ BackSprite = 0,0
 FrontSprite = -3,18
 ShadowX = 0
 ShadowSize = 3
+#-------------------------------
+[GHOLDENGO]
+BackSprite = 0,46
+FrontSprite = -2,12
+ShadowX = 0
+ShadowSize = 1

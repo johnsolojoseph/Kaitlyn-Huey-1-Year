@@ -110,9 +110,14 @@ Pokemon = SQUIRTLE,18
 #-------------------------------
 [QINGQUE,Qingque]
 LoseText = Aww.
+Pokemon = GHOLDENGO,50
+    AbilityIndex = 0
+    Nature = QUIET
+    Moves = MEMENTO,MAKEITRAIN,NASTYPLOT,POWERGEM
 Pokemon = MUNNA,50
 Pokemon = TOGEKISS,50
 Pokemon = ZOROARK,50
+Pokemon = TUSKPIR,50
 #-------------------------------
 [ELITEFOUR_Lance,Edward]
 LoseText = Impressive... You've surpassed all expectations.
@@ -144,6 +149,13 @@ Pokemon = VENUSAUR,50
 [POKEMONTRAINER_Red,John Solo]
 Items = MEGARING
 LoseText = ...
+Pokemon = CHARIZARD,50
+    Moves = FLAMETHROWER,SOLARBEAM,AIRSLASH,WEATHERBALL
+    Item = CHARIZARDITEY
+    Nature = TIMID
+    IV = 31,0,31,31,31,31
+    EV = 0,0,0,252,4,252
+    Shiny = true
 Pokemon = JOLTEON,50
     Moves = THUNDERBOLT,DISCHARGE,QUICKATTACK,BITE
     AbilityIndex = 1
@@ -167,10 +179,3 @@ Pokemon = AZUMARILL,50
     Moves = AQUAJET,PLAYROUGH,SURF,SUPERPOWER
     AbilityIndex = 1
     Nature = QUIET
-Pokemon = CHARIZARD,50
-    Moves = FLAMETHROWER,SOLARBEAM,AIRSLASH,WEATHERBALL
-    Item = CHARIZARDITEY
-    Nature = TIMID
-    IV = 31,0,31,31,31,31
-    EV = 0,0,0,252,4,252
-    Shiny = true
