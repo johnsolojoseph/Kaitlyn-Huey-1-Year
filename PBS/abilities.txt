@@ -1074,3 +1074,7 @@ Description = Combines Unnerve and Grim Neigh Abilities.
 [GOODASGOLD]
 Name = Good as Gold
 Description = The Pokémon becomes immune to status moves.
+#-------------------------------
+[PROTOSYNTHESIS]
+Name = Protosynthesis
+Description = Boosts its best stat in harsh sunlight.

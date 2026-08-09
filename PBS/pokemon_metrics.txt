@@ -4073,3 +4073,9 @@ BackSprite = 0,46
 FrontSprite = -2,12
 ShadowX = 0
 ShadowSize = 1
+#-------------------------------
+[FLUTTERMANE]
+BackSprite = 0,10
+FrontSprite = 1,9
+ShadowX = 0
+ShadowSize = 2

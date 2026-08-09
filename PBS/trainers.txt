@@ -117,7 +117,7 @@ LoseText = This game sucks.
 Pokemon = GHOLDENGO,50
     AbilityIndex = 0
     Nature = QUIET
-    Moves = MEMENTO,MAKEITRAIN,NASTYPLOT,POWERGEM
+    Moves = MAKEITRAIN,NASTYPLOT,POWERGEM
 Pokemon = MUNNA,50
 Pokemon = TOGEKISS,50
 Pokemon = ZOROARK,50
@@ -126,7 +126,7 @@ Pokemon = TUSKPIR,50
     Moves = YAWN,DREAMEATER,PSYCHIC,MOONLIGHT
 #-------------------------------
 [ELITEFOUR_Lance,Edward]
-LoseText = Impressive... You've surpassed all expectations.
+LoseText = Think lightly of yourself and deeply of the world.
 Items = MEGARING
 
 Pokemon = ARCANINE,50
