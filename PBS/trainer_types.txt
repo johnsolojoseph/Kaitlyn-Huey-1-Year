@@ -244,6 +244,12 @@ Gender = Female
 BaseMoney = 16
 SkillLevel = 32
 #-------------------------------
+[LINH]
+Name = Elite Four
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
 [TUBER_M]
 Name = Tuber
 Gender = Male

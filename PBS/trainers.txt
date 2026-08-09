@@ -90,6 +90,10 @@ LoseText = Washed out!
 Pokemon = STARYU,15
 Pokemon = GOLDEEN,11
 #-------------------------------
+[LINH,Linh]
+LoseText = I'm not even a fan of Pokemon.
+Pokemon = PIKACHU,25
+#-------------------------------
 [RIVAL1,Blue]
 LoseText = Not too shabby.
 Pokemon = PIDGEOTTO,17
@@ -109,7 +113,7 @@ Pokemon = RATTATA,15
 Pokemon = SQUIRTLE,18
 #-------------------------------
 [QINGQUE,Qingque]
-LoseText = Aww.
+LoseText = This game sucks.
 Pokemon = GHOLDENGO,50
     AbilityIndex = 0
     Nature = QUIET
@@ -117,7 +121,9 @@ Pokemon = GHOLDENGO,50
 Pokemon = MUNNA,50
 Pokemon = TOGEKISS,50
 Pokemon = ZOROARK,50
+Pokemon = GYARADOS,50
 Pokemon = TUSKPIR,50
+    Moves = YAWN,DREAMEATER,PSYCHIC,MOONLIGHT
 #-------------------------------
 [ELITEFOUR_Lance,Edward]
 LoseText = Impressive... You've surpassed all expectations.
@@ -148,14 +154,7 @@ Pokemon = VENUSAUR,50
 #-------------------------------
 [POKEMONTRAINER_Red,John Solo]
 Items = MEGARING
-LoseText = ...
-Pokemon = CHARIZARD,50
-    Moves = FLAMETHROWER,SOLARBEAM,AIRSLASH,WEATHERBALL
-    Item = CHARIZARDITEY
-    Nature = TIMID
-    IV = 31,0,31,31,31,31
-    EV = 0,0,0,252,4,252
-    Shiny = true
+LoseText = Wow, you're so good.
 Pokemon = JOLTEON,50
     Moves = THUNDERBOLT,DISCHARGE,QUICKATTACK,BITE
     AbilityIndex = 1
@@ -179,3 +178,10 @@ Pokemon = AZUMARILL,50
     Moves = AQUAJET,PLAYROUGH,SURF,SUPERPOWER
     AbilityIndex = 1
     Nature = QUIET
+Pokemon = CHARIZARD,50
+    Moves = FLAMETHROWER,SOLARBEAM,AIRSLASH,WEATHERBALL
+    Item = CHARIZARDITEY
+    Nature = TIMID
+    IV = 31,0,31,31,31,31
+    EV = 0,0,0,252,4,252
+    Shiny = true

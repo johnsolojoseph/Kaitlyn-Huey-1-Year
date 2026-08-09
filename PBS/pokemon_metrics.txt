@@ -3206,7 +3206,7 @@ ShadowSize = 2
 #-------------------------------
 [TUSKPIR]
 BackSprite = 0,0
-FrontSprite = 0,33
+FrontSprite = 0,17
 ShadowX = 0
 ShadowSize = 1
 #-------------------------------
